@@ -1,0 +1,2 @@
+# electronics_shop_management_system
+shop management system,electronics_shop_management_system,electronics
